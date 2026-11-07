@@ -1,0 +1,1 @@
+console.log("Xin chào! Tôi đã cài đặt thành công Node.js.");
