@@ -1,0 +1,3 @@
+1. Sinh viên: Hồ Sỹ Ngọc Hải - MSSV: CDCNTT18B10 - Lớp: CĐ-CNTT18B
+2. Môn học: Lập trình Node.js - Bài thực hành 03: File System
+3. Nội dung: Quản lý thư mục và tập tin bằng module fs trong Node.js
