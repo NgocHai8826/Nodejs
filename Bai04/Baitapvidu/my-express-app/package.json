@@ -1,0 +1,11 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "Du an ung dung may tinh Calculator voi Express va mo hinh MVC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ho Sy Ngoc Hai - CDCNTT18B10",
+  "license": "ISC"
+}
